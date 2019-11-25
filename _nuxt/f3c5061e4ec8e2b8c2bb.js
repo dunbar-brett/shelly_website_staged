@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{196:function(e,t,n){"use strict";n.r(t);var l={},r=n(23),component=Object(r.a)(l,(function(){var e=this.$createElement;return(this._self._c||e)("h1",[this._v("I am water color gallery")])}),[],!1,null,null,null);t.default=component.exports}}]);
