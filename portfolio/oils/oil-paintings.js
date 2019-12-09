@@ -12,7 +12,7 @@ export const oils = [
     {
         id: 0,
         customClass: "",
-        title: "test-title",
+        title: "title",
         description: "description",
         filename: "oils/dancer-oil.jpg"
     },
